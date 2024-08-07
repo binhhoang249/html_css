@@ -1,0 +1,28 @@
+#box1{
+    width: 600px;
+    height: 600px;
+    border-style: solid;
+    background-color: yellow;
+    
+}
+
+#box2{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: green;
+    position: relative;
+    border: 65px;
+    left: 25px;
+    
+}
+
+#box3{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: red;
+    position: relative;
+    bottom: -150px;
+    left: 350px;
+}
